@@ -1,7 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4500&pause=1000&color=585152&random=false&width=435&lines=%D0%95%D0%B1%D0%B5%D0%B1%D0%B5%D0%B1%D0%B5%D0%B1%D0%B5%D0%B1%D0%B5....;%D0%93%D0%BE%D0%BF-%D0%9A%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F+%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%B0)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=585152&width=435&lines=%D0%A1%D0%B5%D0%BA%D1%81+%D0%B1%D0%B5%D0%B7+%D0%B3%D0%B0%D0%BD%D0%B4%D0%BE%D0%BD%D0%B0...;%D0%91%D0%B0%D1%80%D0%B0%D1%88%D0%BA%D0%B0+%D0%B1%D0%B5%D0%B5%D0%B5...;%D0%94%D0%B8%D0%BB%D0%B8%D0%BD%D1%8C-%D0%94%D0%B8%D0%BB%D0%B8%D0%BD%D1%8C...)](https://git.io/typing-svg)
 
 ## 🎲 | Discord
- ![Discord](https://discord.c99.nl/widget/theme-4/675689102087290892.png)
+ ![Discord](https://discord.c99.nl/widget/theme-4/711989851662319657.png)
 
 ## 📊 | Stats
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=imkyku&theme=radical&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1624" height="175px"/></a>
